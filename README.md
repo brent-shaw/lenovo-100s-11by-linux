@@ -1,3 +1,13 @@
+# Compatibility and support
+
+| Kenrel  | Keyboard | Mouse | WiFi | Battery | Webcam | Audio |
+| ------- | -------- | ----- | ---- | ------- | ------ | ----- |
+| 4.8     | N        | N     | N    | N       | N      | N     |
+| 4.10    | Y        | Y     | N    | N       | N      | N     |
+| 4.13.9  | Y        | Y     | Y    | Y       | N      | N     |
+| 4.13.10 | Y        | Y     | Y    | Y       | Y      | N     |
+
+
 # Getting Linux onto the Lenovo 100s
 
 Guides for installation linux on Lenovo 100s 11by
