@@ -6,6 +6,7 @@
 | 4.10    | Y        | Y     | N    | N       | N      | N     |
 | 4.13.9  | Y        | Y     | Y    | Y       | N      | N     |
 | 4.13.10 | Y        | Y     | Y    | Y       | Y      | N     |
+| 4.13.11 | Y        | Y     | Y    | Y       | Y      | N     |
 
 
 # Getting Linux onto the Lenovo 100s
