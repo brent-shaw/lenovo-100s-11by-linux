@@ -30,12 +30,12 @@ The following two ISOs will be needed.
 $ sudo dd if=linuxmint-18.2-xfce-32bit.iso of=/dev/sdX bs=4M
 $ sync
 ```
-unplug and plug again USB stick
+Unplug and plug again USB stick
 
 ```
 $ sudo fdisk /dev/sda
 ```
-make new partition with EFI
+Make new partition with EFI
 ```
 Command (m for help): p
 Disk /dev/sda: 14.7 GiB, 15728640000 bytes, 30720000 sectors
