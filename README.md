@@ -91,6 +91,7 @@ The kernel that ships with Mint 18.2 (4.8) has poor support for the Lenovo 100s 
 | 4.13.9  | Y        | Y     | Y    | Y       | N      | N     |
 | 4.13.10 | Y        | Y     | Y    | Y       | Y      | N     |
 | 4.13.11 | Y        | Y     | Y    | Y       | Y      | N     |
+| 4.13.14 | Y        | Y     | Y    | Y       | Y      | N     |
 
 A program like Ukuu (Ubuntu Kernel Update Utility) makes this very simple and easy to do.
 
